@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PopularMovieStage2</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Releasedate</string>
+    <string name="details">Details</string>
+    <string name="action_favorite">favorite</string>
+    <string name="action_share">share</string>
+    <string name="action_sort_by">sortby</string>
+    <string name="action_sort_by_popularity">Popularity</string>
+    <string name="action_sort_by_rating">Rating</string>
+    <string name="action_sort_by_favorite">FavoritesList</string>
+    <string name="tmdb_api_key"></string>
+    <string name="added_to_favorites">Favourite added</string>
+    <string name="removed_from_favorites">Favorite deleted</string>
+    <string name="title_activity_detail">MovieDetails</string>
+    <string name="share">Share</string>
+    <string name="Sharemessage">"Happy to share link of this Trailer ...... "</string>
+</resources>
