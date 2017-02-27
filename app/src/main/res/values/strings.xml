@@ -11,7 +11,14 @@
     <string name="action_sort_by_popularity">Popularity</string>
     <string name="action_sort_by_rating">Rating</string>
     <string name="action_sort_by_favorite">FavoritesList</string>
-    <string name="tmdb_api_key"></string>
+
+
+
+    <string name="tmdb_api_key">"ENTER YOUR API KEY HERE"</string>
+
+
+
+
     <string name="added_to_favorites">Favourite added</string>
     <string name="removed_from_favorites">Favorite deleted</string>
     <string name="title_activity_detail">MovieDetails</string>
