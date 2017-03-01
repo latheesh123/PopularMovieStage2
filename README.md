@@ -11,4 +11,16 @@ BUTTER KNIFE
 TMDB
 
 
-L
+Linear List View
+
+
+Glide
+
+
+CardView
+
+
+Palette
+
+
+
