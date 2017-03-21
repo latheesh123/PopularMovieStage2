@@ -30,4 +30,4 @@ Palette
 
 
 
-Duration for the project- 3 months
+Duration for the project- 2 months
